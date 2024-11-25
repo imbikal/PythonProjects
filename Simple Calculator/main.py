@@ -22,3 +22,10 @@ elif operator == "/":
 else:
     print("Invalid Operator,Try again")
 
+"""
+Additionally,
+print(round(result))       # Round off to nearest decimal
+
+print(round(result, 3))    # Upto 3 decimal places after answer if its there eg. 77.342
+
+"""
